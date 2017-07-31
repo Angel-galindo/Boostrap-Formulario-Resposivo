@@ -9,7 +9,7 @@ Formulario Boostrap
         
         
 <p align="center">
-    <img src="" width="682" height="330">
+    <img src="https://raw.githubusercontent.com/ginppian/Boostrap-Formulario-Resposivo/master/imgs/img1.png" width="682" height="330">
 </p>
 
  ## Desarrollo
